@@ -1,12 +1,12 @@
 
 html {
-    background-color: lightblue;
+    background-color: #FF9900;
     font-family: verdana;
     font-size: 20px;
     color: white;
 }
 a {
-    background-color: #4CAF50; /* Green */
+    background-color: #FF0000; /* Green */
     border: none;
     color: white;
     padding: 15px 32px;
